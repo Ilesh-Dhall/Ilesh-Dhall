@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 I'm a **2nd B.Tech CSE student** specializing in **AI & Machine Learning**  
+🎓 I'm a **3rd Year B.Tech CSE student** specializing in **AI & Machine Learning**  
 🌱 Currently learning and building in the domains of **NLP**, **Deep Learning**, and **Software Engineering**  
 🚀 Exploring **cutting-edge AI research**, especially in **Neural Compression**, **NLP Applications**, and **Pathfinding Algorithms**  
 💬 Ask me about: `Python`, `R`, `C`, `Machine Learning`, `NLP`, `DSA`, `Git` 
@@ -73,7 +73,5 @@
 [![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ilesh_dhall)
 
 ---
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 ⭐️ *Feel free to star repositories, fork for inspiration, and reach out for collaboration!*
