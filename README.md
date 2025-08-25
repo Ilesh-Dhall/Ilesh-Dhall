@@ -7,7 +7,8 @@
 
 ---
 
-## 👨‍💻 About Me
+##
+ 👨‍💻 About Me
 
 🎓 I'm a **3rd Year B.Tech CSE student** specializing in **AI & Machine Learning**  
 🌱 Currently learning and building in the domains of **NLP**, **Deep Learning**, and **Software Engineering**  
@@ -74,4 +75,7 @@
 
 ---
 
-⭐️ *Feel free to star repositories, fork for inspiration, and reach out for collaboration!*
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ilesh-Dhall&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
+
