@@ -1,11 +1,9 @@
 
 # 🌟 Hi there, I'm Ilesh — Welcome to my GitHub! 👋
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=200&color=FFD700&center=true&vCenter=true&multiline=true&width=800&lines=AI+%7C+ML+%7C+Data+Science+Enthusiast;Passionate+Coder+%7C+Creative+Thinker;Open+Source+Contributor+%7C+Lifelong+Learner" height="80" />
-</a>
-
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=AI+%7C+ML+%7C+Data+Science+Enthusiast;Passionate+Coder+%7C+Creative+Thinker;Lifelong+Learner" alt="Typing SVG" />
+</p>
 
 ##
  👨‍💻 About Me
@@ -14,8 +12,6 @@
 🌱 Currently learning and building in the domains of **NLP**, **Deep Learning**, and **Software Engineering**  
 🚀 Exploring **cutting-edge AI research**, especially in **Neural Compression**, **NLP Applications**, and **Pathfinding Algorithms**  
 💬 Ask me about: `Python`, `R`, `C`, `Machine Learning`, `NLP`, `DSA`, `Git` 
-
----
 
 ## 🔧 Technologies & Tools
 
@@ -28,8 +24,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
----
 
 ## 📈 GitHub Stats
 
@@ -58,22 +52,17 @@
 </div>
 
 
----
-
 ## 🌱 Recent Projects
 
 - 🧭 **NxN Rubik’s Cube Solver** — Modular solver + visualization using pathfinding algorithms
 - 📊 **Metabolomics Data Analysis** - Statistical Testing and Predictive Modelling 
 - 🧠 **Neural Compression for Style Transfer** — Model pruning and optimization for real-time art rendering  
 
----
 
 ## 🤝 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Ilesh-Dhall)
-[![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ilesh_dhall)
 
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ilesh-Dhall&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
