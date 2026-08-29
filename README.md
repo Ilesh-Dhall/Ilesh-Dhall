@@ -3,7 +3,7 @@
 
 *Machine Learning | Data Science | Backend | Cloud Computing*
 
-Welcome to my GitHub profile! I’m a 3rd-year B.Tech CSE student specializing in AI & ML, passionate about building efficient and user-focused applications. I enjoy exploring modern tools, algorithms, and intelligent systems through hands-on projects.
+Welcome to my GitHub profile! I’m a 4th-year B.Tech CSE student specializing in AI & ML, passionate about building efficient and user-focused applications. I enjoy exploring modern tools, algorithms, and intelligent systems through hands-on projects.
 
 ## 🔧 Technologies & Tools
 
